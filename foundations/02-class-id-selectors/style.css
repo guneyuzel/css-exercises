@@ -1,0 +1,16 @@
+.coco {
+  background-color: lightpink;
+  font-family: Verdana, DejaVu, sans-serif;
+}
+#loco {
+  color: blue;
+  font-size: 36px;
+}
+.coco.the {
+  font-size: 24px;
+}
+#poco {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
